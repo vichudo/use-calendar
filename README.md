@@ -5,9 +5,9 @@
 ## Installation
 
 ```bash
-npm install use-calendar
+npm install use-calendar-react-hook
 # or with yarn
-yarn add use-calendar
+yarn add use-calendar-react-hook
 ```
 
 ## Usage
@@ -15,7 +15,7 @@ yarn add use-calendar
 Import `useCalendar` from the package and use it in your component:
 
 ```tsx
-import useCalendar from "use-calendar";
+import useCalendar from "use-calendar-react-hook";
 
 function App() {
   const {
