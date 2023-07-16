@@ -1,8 +1,26 @@
 {
   "name": "use-calendar",
   "version": "1.0.0",
-  "main": "index.ts",
+  "description": "A React hook for managing calendar states",
+  "main": "src/useCalendar.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vichudo/use-calendar.git"
+  },
+  "keywords": [
+    "react",
+    "hook",
+    "calendar"
+  ],
+  "author": "Vicente González",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vichudo/use-calendar/issues"
+  },
+  "homepage": "https://github.com/vichudo/use-calendar#readme",
   "dependencies": {
     "@types/react": "^18.2.15",
     "date-fns": "^2.30.0",
