@@ -1,5 +1,5 @@
 {
-  "name": "use-calendar",
+  "name": "use-calendar-react-hook",
   "version": "1.0.0",
   "description": "A React hook for managing calendar states",
   "main": "src/useCalendar.ts",
@@ -15,7 +15,7 @@
     "hook",
     "calendar"
   ],
-  "author": "Vicente González",
+  "author": "Vicente González (@vichudo)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/vichudo/use-calendar/issues"
