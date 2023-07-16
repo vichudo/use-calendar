@@ -1,0 +1,25 @@
+# .gitignore
+
+# Dependency directories
+node_modules
+
+# Logs
+yarn-error.log
+
+# Yarn Integrity file
+.yarn-integrity
+
+# TypeScript compiled files
+dist
+**/*.js
+**/*.jsx
+**/*.js.map
+**/*.d.ts
+tsconfig.tsbuildinfo
+
+# IDE - VSCode
+.vscode
+
+# lock files
+yarn.lock
+package-lock.json
